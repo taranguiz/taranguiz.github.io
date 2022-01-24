@@ -15,10 +15,11 @@ author: Tamara Aranguiz
 
 navbar-links:
   About Me: "aboutme"
+  CV: "cv"
   Links:
-    - Alison Duvall: "https://www.alisonrduvall.com"
-    - Brendan Crowell: "https://sites.google.com/site/crowellbw/"
-    - ESS, University of Washington: "https://www.ess.washington.edu"
+    - Dr. Duvall: "https://www.alisonrduvall.com"
+    - Dr. Crowell: "https://sites.google.com/site/crowellbw/"
+    - ESS, UW: "https://www.ess.washington.edu"
     - URGE: "https://urgeoscience.org"
   Author's home: "https://deanattali.com"
 
