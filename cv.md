@@ -1,13 +1,14 @@
 If you want to read my CV this is a ~2 pages version.
 
 **EDUCATION**			
-2020/09 - Present	  University of Washington, Seattle, United States. Ph.D. Student Department of Earth and Space Sciences.
-2012/03 – 2018/03	  University of Chile, Santiago, Chile. Professional Degree, Geologist.
-2012/03 – 2016/03	  University of Chile, Santiago, Chile. Bachelor of Science in Geology. 
-2016/08 - 2016/12	  Universidade de São Paulo, São Paulo, Brasil. Academic Exchange in Geosciences.
+
+- 2020/09 - Present	  University of Washington, Seattle, United States. Ph.D. Student Department of Earth and Space Sciences.
+- 2012/03 – 2018/03	  University of Chile, Santiago, Chile. Professional Degree, Geologist.-
+- 2012/03 – 2016/03	  University of Chile, Santiago, Chile. Bachelor of Science in Geology. 
+- 2016/08 - 2016/12	  Universidade de São Paulo, São Paulo, Brasil. Academic Exchange in Geosciences.
 
 **RESEARCH EXPERIENCE**
-2020/09-Present		  University of Washington, Department of Earth and Space Sciences, Seattle, WA, United States. 
+2020/09-Present	    University of Washington, Department of Earth and Space Sciences, Seattle, WA, United States. 
                     Research Student in Tectonic Geomorphology group. Advisor: Alison Duvall. 
                     Research Student in Geodesy Group. Advisor: Brendan Crowell. 
 2017/03 – 2018/01	  University of Chile, Santiago, Chile. Professional Degree Thesis.
