@@ -1,12 +1,20 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: AGU Ignite Talk 
+subtitle: Do you have five minutes to watch my talk? 
+gh-repo: taranguiz/tarangui.github.io
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [scicomm]
 comments: true
 ---
+
+During AGU 2021 in New Orleans, LA, I had the pleasure to give an Ignite talk. 
+**What is an ignite talk?** 
+Ignite is an strict format where speakers have 5 minutes to talk on a subject accompanied by 20 slides, for 15 seconds each, automatically advanced.
+
+AGU MEETING has their own version (https://igniteagu.io) 
+Here is my talk if you want to watch it! 
+https://www.wevideo.com/view/2514477615 
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
