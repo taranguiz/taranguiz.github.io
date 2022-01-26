@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Tamara Aranguiz, Geoscientist
+title: Tamara Aranguiz - Geoscientist
 
 # Your name to show in the footer
 author: Tamara Aranguiz
@@ -20,7 +20,7 @@ navbar-links:
   CV: "cv"
   Links:
     - Dr. Duvall: "https://www.alisonrduvall.com"
-    - Dr. Crowell: "https://sites.google.com/site/crowellbw/"
+    - Dr. Crowell: "https://sites.google.com/view/uwsglab/home/"
     - ESS, UW: "https://www.ess.washington.edu"
     - URGE: "https://urgeoscience.org"
   #Author's home: "https://deanattali.com"
@@ -97,7 +97,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
