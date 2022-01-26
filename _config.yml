@@ -23,7 +23,8 @@ navbar-links:
     - Dr. Crowell: "https://sites.google.com/site/crowellbw/"
     - ESS, UW: "https://www.ess.washington.edu"
     - URGE: "https://urgeoscience.org"
-
+  Author's home: "https://deanattali.com"
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -84,7 +85,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
- url-pretty: "taranguiz.github.io"
+# url-pretty: "taranguiz.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
