@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Tamara Aranguiz
+title: Tamara Aranguiz - Geoscientist
 
 # Your name to show in the footer
 author: Tamara Aranguiz
@@ -15,22 +15,23 @@ author: Tamara Aranguiz
 
 navbar-links:
   About Me: "aboutme"
+  Research: "research"
+  Projects: "projects"
   CV: "cv"
   Links:
     - Dr. Duvall: "https://www.alisonrduvall.com"
     - Dr. Crowell: "https://sites.google.com/site/crowellbw/"
     - ESS, UW: "https://www.ess.washington.edu"
     - URGE: "https://urgeoscience.org"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "assets/img/Fav_climbingspot.jpg"
+avatar: "assets/img/for_website.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-#round-avatar: true
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -83,7 +84,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+ url-pretty: "taranguiz.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
