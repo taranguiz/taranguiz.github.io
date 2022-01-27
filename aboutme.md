@@ -17,6 +17,6 @@ What else I can say?
 
 ### My story
 
-I'm a first gen! I have never heard about a Ph.D. until I went to university and realized that if I wanted to be a proffessor I had to get that degreee.  
+I'm a first gen! I have never heard about a Ph.D. until I went to university and realized that if I wanted to be a proffessor I had to get that degree.  
 
 This story will continue...
