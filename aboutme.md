@@ -13,10 +13,8 @@ My name is Tamara Aranguiz, I'm pursuing my Ph.D. in Earth and Spaces Sciences i
 - I'm hyperactive since I was very little. Now I use my energy climbing, running, biking and dancing.
 - I did improv for many years as part of the cast of a theater company in Chile. In fact, I have an actress certificate after completing a conservatory in Improvisational Theater and Comedy. I use my communication skills in my science everytime that I can.   
 
-What else I can say? 
-
 ### My story
 
 I'm a first gen! I have never heard about a Ph.D. until I went to university and realized that if I wanted to be a proffessor I had to get that degree.  
 
-This story will continue...
+This story will continue... 
