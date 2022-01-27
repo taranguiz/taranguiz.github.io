@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Hola! I'm a Geoscientist that like surface deformation
+subtitle: Hola! I'm a Geoscientist that likes surface deformation
+cover-img: assets/img/Fav_climbingspot.jpg
 ---
 
 My name is Tamara Aranguiz, I'm pursuing my Ph.D. in Earth and Spaces Sciences in the University of Washington, Seattle, USA. 
@@ -15,6 +16,6 @@ My name is Tamara Aranguiz, I'm pursuing my Ph.D. in Earth and Spaces Sciences i
 
 ### My story
 
-I'm a first gen! I have never heard about a Ph.D. until I went to university and realized that if I wanted to be a proffessor I had to get that degree.  
+I'm a first gen! I have never heard about a Ph.D. until I went to university and realized that if I wanted to be a professor and researcher I had to get that degree.  
 
 This story will continue... 
