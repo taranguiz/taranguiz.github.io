@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Hola! I'm a Geoscientist that likes surface deformation
-cover-img: assets/img/Fav_climbingspot.jpg
+cover-img: assets/img/cover_santiago_andes.jpg
 ---
 
 My name is Tamara Aranguiz, I'm pursuing my Ph.D. in Earth and Spaces Sciences in the University of Washington, Seattle, USA. 
