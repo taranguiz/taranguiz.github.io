@@ -18,4 +18,4 @@ I'm part of two research groups: advised by Dr. Alison Duvall in the [Geoscopes 
 
 **Landscape Evolution Models for Strike-Slip Faults**
 
-- Introducing the effect of erosion-deposition in channels affected by strike-slip faults. This work is an ongoing project that will be presented in the CSDMS Annual Meeting 2022 (05/2022).
+- Introducing the effect of sediments in channels affected by strike-slip faults. This work is an ongoing project that will be presented in the CSDMS Annual Meeting 2022 (05/2022).
