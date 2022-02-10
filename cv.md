@@ -3,7 +3,7 @@ layout: page
 title: CV 
 subtitle: This is my resume. 
 ---
-Version in [PDF](https://github.com/taranguiz/taranguiz.github.io/raw/master/assets/img/AranguizTamaraCV_Short_2022_02.pdf)
+Download the [PDF](https://github.com/taranguiz/taranguiz.github.io/raw/master/assets/img/AranguizTamaraCV_Short_2022_02.pdf) version.
 
 **EDUCATION**			
 
