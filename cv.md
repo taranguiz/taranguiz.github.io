@@ -39,11 +39,11 @@ Download the [PDF](https://github.com/taranguiz/taranguiz.github.io/raw/master/a
 
 **PROFESSIONAL EXPERIENCE**
 
--2018/01- 2020/08	Xterrae Geologia, Santiago, Chile. Project Geologist. Natural hazards, hydrology, geology and risk applied to urban planning.
+- 2018/01-2020/08Xterrae Geologia, Santiago, Chile. Project Geologist. Natural hazards, hydrology, geology and risk applied to urban planning.
 
--2013/04-2018/12	Lospleimovil Theater, Santiago, Chile. Actress and Teacher. Shows, events, classes, and training. Participation in national and international festivals.
+- 2013/04-2018/12	Lospleimovil Theater, Santiago, Chile. Actress and Teacher. Shows, events, classes, and training. Participation in national and international festivals.
 
--2017/01-2017/03	Xterrae Geologia, Santiago, Chile. Project Geologist. Risk studies. Internship II.  
+- 2017/01-2017/03	Xterrae Geologia, Santiago, Chile. Project Geologist. Risk studies. Internship II.  
 
 **CONFERENCES**
 - March 2022		Structure and Deformation at Plate Boundaries, Honolulu Hawaii, USA.“Unraveling surface deformation rates during the interseismic period in Salar Grande Fault, Northern Chile”.NSF GeoPRISMS workshop, workshop attendant and poster presenter.
