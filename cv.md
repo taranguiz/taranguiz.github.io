@@ -1,8 +1,9 @@
 ---
 layout: page
 title: CV 
-subtitle: This is the short version in [PDF](https://github.com/taranguiz/taranguiz.github.io/raw/master/assets/img/AranguizTamaraCV_Short_2022_02.pdf). 
+subtitle: This is my resume. 
 ---
+Version in [PDF](https://github.com/taranguiz/taranguiz.github.io/raw/master/assets/img/AranguizTamaraCV_Short_2022_02.pdf)
 
 **EDUCATION**			
 
