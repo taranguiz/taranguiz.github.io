@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: I'm involved with some inciatives out of my research.
+subtitle: I am involved with some initiatives outside of my research.
 ---
 
 ### Geolatinas 
