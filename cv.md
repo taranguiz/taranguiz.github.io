@@ -7,7 +7,7 @@ Download the [PDF](https://github.com/taranguiz/taranguiz.github.io/raw/master/a
 
 **EDUCATION**			
 
-- 2020/09 - Present:	  University of Washington, Seattle, United States. Ph.D. Student Department of Earth and Space Sciences.
+- 2020/09 - Present:	  University of Washington, Seattle, United States. Ph.D. Candidate Department of Earth and Space Sciences.
 - 2012/03 – 2018/03:	  University of Chile, Santiago, Chile. Professional Degree, Geologist.-
 - 2012/03 – 2016/03:	  University of Chile, Santiago, Chile. Bachelor of Science in Geology. 
 - 2016/08 - 2016/12:	  Universidade de São Paulo, São Paulo, Brasil. Academic Exchange in Geosciences.
@@ -22,7 +22,7 @@ Download the [PDF](https://github.com/taranguiz/taranguiz.github.io/raw/master/a
 - 2015/08 – 2016/01:	  University of Chile, Santiago, Chile. Project I. “Scarps quantification of San Ramón Fault using high resolution DEM.” Advisor: Gabriel Vargas Easton. 
 
 **TEACHING EXPERIENCE**
-- 2022/01-2022/06		  CoCo: Code to Communicate, NSF- bilingual project for graduate Latinx students. Python trainer.
+- 2022/01-2023/04		  CoCo: Code to Communicate, NSF- bilingual project for graduate Latinx students. Python trainer.
 - 2018/01			  Faculty of Physical and Mathematical Sciences, University of Chile. Summer School. Geology II: Deciphering the keys of the Geological Landscape. Geology I: The Force of Volcanoes.
 - 2014/08-2017/12		  Faculty of Physical and Mathematical Sciences, University of Chile. Geology of Chile (1 time); General Geology (4 times); Probability and Statistics (1 time); Physical Chemistry (2 times). 
 - 2017/04-2017/07		  Pontifical Catholic University of Chile. PACE Program. Teacher Assistant Geological Catastrophes. Elective course for high school vulnerable students.
