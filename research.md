@@ -4,7 +4,7 @@ title: My Research
 subtitle: Strike-slip-scapes evolution
 ---
 
-My Ph.D. focuses on understanding how strike-slip faults modify and create topography in interaction with surface processes. I use a suite of techniques from geodesy, geomorphology, geochronology, and numerical simulations to address a range of timescales. My study area is in the hyper-arid core of the Atacama Desert but I also work synthetic landscapes. 
+My Ph.D. focuses on understanding how strike-slip faults modify and create topography in interaction with surface processes. I use a suite of techniques from geodesy, geomorphology, geochronology, and numerical simulations to address a range of timescales. My study area is in the hyper-arid core of the Atacama Desert but I also work with synthetic landscapes. 
 
 
 I'm part of two research groups: advised by Dr. Alison Duvall in the [Geoscapes Lab](https://www.alisonrduvall.com) and co-advised by Dr. Brendan Crowell in the [Seismogeodesy Lab](https://sites.google.com/view/uwsglab/home/). 
