@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Hola! I'm a tectonic geomorphologist 
-cover-img: assets/img/cover_santiago_andes.jpg
+cover-img: assets/DSC_7809.jpg
 ---
 
 My name is Tamara Aránguiz-Rago, I am a Ph.D. Candidate in Earth and Spaces Sciences at the University of Washington, Seattle, USA. 
