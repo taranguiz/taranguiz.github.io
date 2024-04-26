@@ -1,7 +1,8 @@
 ---
 layout: page
 title: My Research
-subtitle: Studying strike-slip-scapes 
+subtitle: Studying strike-slip-scapes
+cover-img: assets/img/ortho_1400_website-01.png
 ---
 
 My Ph.D. focuses on understanding how strike-slip faults modify and create topography in interaction with surface processes. I use a suite of techniques from geodesy, geomorphology, geochronology, and numerical simulations to address a range of timescales. My study area is in the hyper-arid core of the Atacama Desert but I also work with synthetic landscapes. 
