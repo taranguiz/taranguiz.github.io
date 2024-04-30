@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Projects: "projects"
-  Blog: "blogs"
+  #Blog: "blogs"
   CV: "cv"
   Links:
     - Dr. Duvall: "https://www.alisonrduvall.com"
