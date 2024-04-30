@@ -17,8 +17,9 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Projects: "projects"
+  Resume: "resume"
   #Blog: "blogs"
-  CV: "cv"
+  # CV: "cv"
   Links:
     - Dr. Duvall: "https://www.alisonrduvall.com"
     - Dr. Crowell: "https://sites.google.com/view/uwsglab/home/"
