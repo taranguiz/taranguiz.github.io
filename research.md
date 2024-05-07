@@ -13,7 +13,7 @@ I'm part of two research groups: advised by Dr. Alison Duvall in the [Geoscapes 
 
 **Salar Grande Fault, Northern Chile**
 
-- Geodetic Interseismic Fault Slip Rates Based on Bootstrapping of InSAR Time-series Data in the Salar Grande, Northern Chile. Aránguiz-Rago, T., Crowell, B., Henderson, S., Duvall, A., Delgado, F., Schmidt, D. (in review). Remote Sensing.
+- Geodetic Interseismic Fault Slip Rates Based on Bootstrapping of InSAR Time-series Data in the Salar Grande, Northern Chile. Aránguiz-Rago, T., Crowell, B., Henderson, S., Duvall, A., Schmidt, D. (in review). Remote Sensing.
 
 - Holocene evidence of co-seismic deformation of the Salar Grande Fault using IRSL dating of alluvial deposits. Aránguiz-Rago, T., Duvall, A., Estay, J., Gray. H. (in prep).   
 
