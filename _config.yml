@@ -69,7 +69,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0009-0004-4073-9288
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 
@@ -109,7 +109,7 @@ post_search: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: '#A1A1A0' #"#fcbf49" #"#ffb703" #"#8ECae6"
+navbar-col: '#FEFEFE' #'#A1A1A0' #"#fcbf49" #"#ffb703" #"#8ECae6"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
