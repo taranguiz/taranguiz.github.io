@@ -13,9 +13,15 @@ permalink: /gallery/
     <p>Coastal Cordillera, Chile. Bedrock sampling in vertical transect for (U/Th)-He dating.</p>
   </div>
   
+
   <div style="text-align: center;">
-    <img src="/assets/img/IRSL_dating.jpeg" alt="Salar Grande Basin, Northern Chile. My first IRSL sample!" style="width: 100%; height: auto;" />
+    <img src="/assets/img/IRSL_first_sample.HEIC" alt="Salar Grande Basin, Northern Chile. My first IRSL sample!" style="width: 100%; height: auto;" />
     <p>Salar Grande Basin, Northern Chile. My first IRSL sample!</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/IRSL_dating.jpeg" alt="Cerro Carrasco front range, Northern Chile. Dating Alluvial Deposits using IRSL method." style="width: 100%; height: auto;" />
+    <p>Cerro Carrasco front range, Northern Chile. Dating Alluvial Deposits using IRSL method.</p>
   </div>
 
   <div style="text-align: center;">
@@ -34,7 +40,7 @@ permalink: /gallery/
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/img/range_fron_emma.jpeg" alt="Cerro Carrasco, Northern Chile. Field assistant Emma Heitmann walking on alluvial fans near Salar Grande Fault." style="width: 100%; height: auto;" />
+    <img src="/assets/img/range_front_emma.jpeg" alt="Cerro Carrasco, Northern Chile. Field assistant Emma Heitmann walking on alluvial fans near Salar Grande Fault." style="width: 100%; height: auto;" />
     <p>Cerro Carrasco, Northern Chile. Field assistant Emma Heitmann walking on alluvial fans near Salar Grande Fault.</p>
   </div>
 
