@@ -2,14 +2,14 @@
 layout: page
 title: About me
 subtitle: Hola! I'm a tectonic geomorphologist 
-cover-img: assets/DSC_9835_Original_jpeg.jpg
+cover-img: assets/img/DSC_9835_Original_jpeg.jpg
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <div style="flex: 1;">
     <img src="/assets/img/yellow_back__400x400.png" alt="Tamara Aránguiz-Rago" style="border-radius: 50%; width: 200px;" />
-    <img src="/assets/img/DSC_8758_Original.jpeg" alt="Cosmo river" style="border-radius: 10%; width: 200px; margin-top: 10px;" />
+    <img src="/assets/img/DSC_8758_Original.jpeg" alt="Cosmo river" style="border-radius: 10%; width: 200px; margin-top: 30px;" />
   </div>
 
   <div style="flex: 3;">
