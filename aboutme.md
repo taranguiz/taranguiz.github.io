@@ -15,7 +15,7 @@ cover-img: assets/img/DSC_9835_Original.jpeg
   <div style="flex: 3;">
     <h2>Sobre mí</h2>
 
-    <p>Hola! I’m Tamara Aránguiz-Rago, a Ph.D. Candidate in Earth and Space Sciences at the University of Washington, Seattle. Originally from Santiago, Chile, I moved to the US in September 2020 after receiving a <a href="https://fulbrightscholars.org/who-we-are/what-fulbright-program" target="_blank">Fulbright</a> Doctorate Fellowship, which has been instrumental in my academic journey. When I was awarded the fellowship in 2018, I didn’t speak English, but I worked hard to learn it and am now fluent—though still always improving!</p>
+    <p>Hola! I’m Tamara Aránguiz-Rago, a <strong>Ph.D. Candidate in Earth and Space Sciences at the University of Washington</strong>, Seattle. Originally from Santiago, Chile, I moved to the US in September 2020 after receiving a <a href="https://fulbrightscholars.org/who-we-are/what-fulbright-program" target="_blank">Fulbright</a> Doctorate Fellowship, which has been instrumental in my academic journey. When I was awarded the fellowship in 2018, I didn’t speak English, but I worked hard to learn it and am now fluent—though still always improving!</p>
 
     <p>My research interests are centered on how landscapes archive both past and present tectonic and surface processes. I’m particularly interested in how we can disentangle tectonic and climate signals to better understand the role of these processes in shaping the landscape. I work across multiple scales and techniques, combining <strong>field observations, remote sensing, geochronological data, and numerical simulations</strong> to inform physical and mathematical models of erosion and fault systems.</p>
 
