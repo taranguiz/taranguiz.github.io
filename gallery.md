@@ -54,7 +54,7 @@ permalink: /gallery/
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/img/IMG_8993" alt="Dark Lab preparing IRSL samples at the Luminescence Lab at the USGS Facilities, Lakewood, CO." style="width: 100%; height: auto;" />
+    <img src="/assets/img/IMG_8993.jpeg" alt="Dark Lab preparing IRSL samples at the Luminescence Lab at the USGS Facilities, Lakewood, CO." style="width: 100%; height: auto;" />
     <p>Dark Lab preparing IRSL samples at the Luminescence Lab at the USGS Facilities, Lakewood, CO. </p>
   </div>
 
