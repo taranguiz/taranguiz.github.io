@@ -1,20 +1,11 @@
 ---
 layout: page
 title: Gallery
+subtitle: Some Science Photos 
 permalink: /gallery/
 ---
 
-## Science Photos Gallery
-
----
-layout: page
-title: Gallery
-permalink: /gallery/
----
-
-## Science Photos Gallery
-
-<div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+<div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
   <div style="text-align: center;">
     <img src="/assets/img/bedrock_sample.JPG" alt="Coastal Cordillera, Chile. Bedrock sampling in vertical transect for (U/Th)-He dating." style="width: 100%; height: auto;" />
