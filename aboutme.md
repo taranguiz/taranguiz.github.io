@@ -5,7 +5,7 @@ subtitle: Hola! I'm a tectonic geomorphologist
 cover-img: assets/img/DSC_9835_Original.jpeg
 ---
 
-<div style="display: flex; align-items: center; gap: 50px;">
+<div style="display: flex; align-items: center; gap: 20px;">
 
   <div style="flex: 1;">
     <img src="/assets/img/yellow_back__400x400.png" alt="Tamara Aránguiz-Rago" style="border-radius: 50%; width: 200px;" />
