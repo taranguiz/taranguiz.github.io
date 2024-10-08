@@ -6,17 +6,24 @@ permalink: /gallery/
 
 ## Science Photos Gallery
 
-<div class="gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+---
+layout: page
+title: Gallery
+permalink: /gallery/
+---
+
+## Science Photos Gallery
+
+<div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
   <div style="text-align: center;">
     <img src="/assets/img/bedrock_sample.JPG" alt="Coastal Cordillera, Chile. Bedrock sampling in vertical transect for (U/Th)-He dating." style="width: 100%; height: auto;" />
     <p>Coastal Cordillera, Chile. Bedrock sampling in vertical transect for (U/Th)-He dating.</p>
   </div>
-  
 
   <div style="text-align: center;">
-    <img src="/assets/img/IRSL_first_sample.jpg" alt="Salar Grande Basin, Northern Chile. My first IRSL sample!" style="width: 100%; height: auto;" />
-    <p>Salar Grande Basin, Northern Chile. My first IRSL sample!</p>
+    <img src="/assets/img/looking_down_fault.JPG" alt="Cerro Carrasco, Northern Chile. Looking down to Salar Grande Fault." style="width: 100%; height: auto;" />
+    <p>Cerro Carrasco, Northern Chile. Looking down to Salar Grande Fault.</p>
   </div>
 
   <div style="text-align: center;">
@@ -35,13 +42,13 @@ permalink: /gallery/
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/img/looking_down_fault.JPG" alt="Cerro Carrasco, Northern Chile. Looking down to Salar Grande Fault." style="width: 100%; height: auto;" />
-    <p>Cerro Carrasco, Northern Chile. Looking down to Salar Grande Fault.</p>
-  </div>
-
-  <div style="text-align: center;">
     <img src="/assets/img/range_front_emma.jpeg" alt="Cerro Carrasco, Northern Chile. Field assistant Emma Heitmann walking on alluvial fans near Salar Grande Fault." style="width: 100%; height: auto;" />
     <p>Cerro Carrasco, Northern Chile. Field assistant Emma Heitmann walking on alluvial fans near Salar Grande Fault.</p>
+  </div>
+   
+   <div style="text-align: center;">
+    <img src="/assets/img/IRSL_first_sample.jpg" alt="Salar Grande Basin, Northern Chile. My first IRSL sample!" style="width: 100%; height: auto;" />
+    <p>Salar Grande Basin, Northern Chile. My first IRSL sample!</p>
   </div>
 
 </div>
