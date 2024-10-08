@@ -2,6 +2,10 @@
 layout: post
 title: "Best Overall Talk and Upgoer5 Presentation"
 date: 2023-04-15
+gh-repo: taranguiz/tarangui.github.io
+gh-badge: [star, fork, follow]
+tags: [numerical modeling, geomorphology, sci comm]
+comments: true
 ---
 
 I am excited to share that I won the **Best Overall Talk** at the recent event with my presentation titled *"Role of sediment and climate variability in strike-slip fault arid landscapes."* It was an incredible opportunity to share my research, and I’m honored to have received this recognition.
