@@ -12,7 +12,7 @@ cover-img: assets/DSC_7809.jpg
   </div>
 
   <div style="flex: 3;">
-    <h2>About Me</h2>
+    <h2>Who Am I?</h2>
 
     <p>Hola! I’m Tamara Aránguiz-Rago, a Ph.D. Candidate in Earth and Space Sciences at the University of Washington, Seattle. Originally from Santiago, Chile, I moved to the US in September 2020 after receiving a Fulbright Doctorate Fellowship, which has been instrumental in my academic journey. When I was awarded the fellowship in 2018, I didn’t speak English, but I worked hard to learn it and am now fluent—though still always improving!</p>
 
