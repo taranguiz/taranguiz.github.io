@@ -15,7 +15,7 @@ permalink: /gallery/
   
 
   <div style="text-align: center;">
-    <img src="/assets/img/IRSL_first_sample.HEIC" alt="Salar Grande Basin, Northern Chile. My first IRSL sample!" style="width: 100%; height: auto;" />
+    <img src="/assets/img/IRSL_first_sample.jpg" alt="Salar Grande Basin, Northern Chile. My first IRSL sample!" style="width: 100%; height: auto;" />
     <p>Salar Grande Basin, Northern Chile. My first IRSL sample!</p>
   </div>
 
