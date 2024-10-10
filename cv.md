@@ -4,4 +4,6 @@ title: Curriculum Vitae
 subtitle:  
 ---
 
-<p>Download my full CV: <a href="https://github.com/taranguiz/taranguiz.github.io/blob/master/assets/img/AranguizRagoT_CV.pdf" target="_blank">Click here to download the PDF</a>.</p>
+<iframe src="https://drive.google.com/file/d/1T-cUoMs9HVBY7ujVSXMIL-Qn-mLbXRbF/preview" width="100%" height="800px" allow="autoplay"></iframe>
+
+<p>If the embedded CV is not loading, you can also <a href="https://drive.google.com/file/d/1T-cUoMs9HVBY7ujVSXMIL-Qn-mLbXRbF/view?usp=sharing" target="_blank">download the PDF here</a>.</p>
