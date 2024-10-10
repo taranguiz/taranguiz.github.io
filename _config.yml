@@ -20,7 +20,7 @@ navbar-links:
   Projects: "projects"
   #Resume: "resume"
   #Blog: "blogs"
-  Resume: "cv"
+  CV: "cv"
   Links:
     - Dr. Duvall: "https://www.alisonrduvall.com"
     - ESS, UW: "https://www.ess.washington.edu"
