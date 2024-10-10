@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume 
+title: Curriculum Vitae 
 subtitle:  
 ---
-Download the full [PDF](https://github.com/taranguiz/taranguiz.github.io/raw/master/assets/img/ARANGUIZRAGO-TAMARA-RESUME.pdf) version.
+Download my full CV [PDF](https://github.com/taranguiz/taranguiz.github.io/blob/master/assets/img/AranguizRagoT_CV.pdf) version.
