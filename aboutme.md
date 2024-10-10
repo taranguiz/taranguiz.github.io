@@ -23,7 +23,7 @@ cover-img: assets/img/DSC_9835_Original.jpeg
 <!-- New Photo Section at the Bottom -->
 <div style="text-align: center; margin-top: 20px;">
   <img src="assets/img/scan112525_Original.jpeg" alt="New Photo" style="border-radius: 10%; width: 300px;" />
-  <p style="margin-top: 10px;">Enjoying Mountaineering in the North Cascades, Washington.</p>
+  <p style="margin-top: 10px;">Enjoying Mountaineering in the North Cascades, Washington</p>
 </div>
 
 
