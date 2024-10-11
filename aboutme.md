@@ -15,7 +15,7 @@ cover-img: assets/img/DSC_9835_Original.jpeg
 
     <p>My research interests are centered on how landscapes archive both past and present tectonic and surface processes. I’m particularly interested in how we can disentangle tectonic and climate signals to better understand the role of these processes in shaping the landscape. I work across multiple scales and techniques, combining <strong>field observations, remote sensing, geochronological data, and numerical simulations</strong> to inform physical and mathematical models of erosion and fault systems.</p>
 
-    <p>During my PhD, my research focus on <strong>strike-slip fault landscapes and their evolution across timescales</strong>. I spend a lot of time using tools like GIS and coding for data analysis, but I also love to spend time collecting geological constraints in the field. Teaching and mentoring are also incredibly important to me—particularly <strong>mentoring students from marginalized communities</strong>, ensuring they thrive and succeed in STEM fields. Outside of science, I do improv theater with <a href="https://www.bandittheater.org/" target="_blank">Bandit Theater</a> and perform monthly across Seattle; and I enjoy spending time in the mountains, running, and climbing.</p>
+    <p>During my PhD, my research focus on <strong>strike-slip fault landscapes and their evolution across timescales</strong>. I spend a lot of time using tools like GIS and coding for data analysis, but I also love to spend time collecting geological constraints in the field. Teaching and mentoring are also incredibly important to me—particularly <strong>mentoring students from marginalized communities</strong>, ensuring they thrive and succeed in STEM fields. Outside of science, I do improv theater with <a href="https://www.bandittheater.org/" target="_blank">Bandit Theater</a> and I enjoy spending time in the mountains, running, and climbing.</p>
   </div>
 
 </div>
@@ -23,7 +23,7 @@ cover-img: assets/img/DSC_9835_Original.jpeg
 <!-- New Photo Section at the Bottom -->
 <div style="text-align: center; margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/taranguiz/taranguiz.github.io/master/assets/img/scan112525_Original.jpeg" alt="New Photo" style="border-radius: 10%; width: 300px;" />
-  <p style="margin-top: 10px;">Enjoying Mountaineering in the North Cascades, Washington</p>
+  <p style="margin-top: 10px;">Mountaineering in the North Cascades, Washington</p>
 </div>
 
 
