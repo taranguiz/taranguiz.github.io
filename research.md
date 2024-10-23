@@ -13,14 +13,17 @@ I'm part of two research groups: advised by Dr. Alison Duvall in the [Geoscapes 
 
 **Salar Grande Fault, Northern Chile**
 
-- Slow strike-slip faulting in a hyperarid landscape: assessing the geomorphic response to the Salar Grande Fault, Atacama Desert, Chile. Aránguiz-Rago, T., Duvall, A., Crowell, B., Henderson, S., Schmidt, D. (in review) submitted to JGR Earth Surface.  
+- Slow strike-slip faulting in a hyperarid landscape: assessing the geomorphic response to the Salar Grande Fault, Atacama Desert, Chile. Aránguiz-Rago, T., Duvall, A., Crowell, B., Henderson, S., Schmidt, D. (in revision) submitted to JGR Earth Surface.  
 
 - Holocene evidence of co-seismic deformation of the Salar Grande Fault using IRSL dating of alluvial deposits. Aránguiz-Rago, T., Duvall, A., Estay, J., Gray. H. (in prep).   
 
 
 **Landscape Evolution Models for Strike-Slip Faults**
 
-- The role of sediment and climate variability in strike-slip fault landscapes: insights from numerical simulations and field observations.  Aránguiz-Rago, T., Duvall, A., Tucker, G., Campforts, B. (in prep). 
+- Oscillatory fluvial activity in strike-slip fault landscapes: insights from numerical simulations. Aránguiz-Rago, T., Duvall, A., Tucker, G., Campforts, B. (in prep). For Geophysical Research Letters (GRL).
+
+- Sediment cover hinders ridge and valley migration in strike-slip fault models. Aránguiz-Rago, T., Duvall, A. (in prep). 
+
 
 **Fault-driven exhumation in Chilean Coastal Cordillera**
 
