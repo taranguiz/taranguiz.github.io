@@ -10,9 +10,9 @@ My undergrad mentee, Jesús Rangel (Earth and Space Sciences major, UW), present
 
 **"Caution: Slide Area! Surface Roughness Dating of Coastal Landslides Along the South Whidbey Island Fault, WA"**
 
-This project explores the use of surface roughness metrics derived from high-resolution topographic data to estimate the relative age of landslides along the active South Whidbey Island Fault zone.
+This project explores the use of surface roughness derived from Lidar data to estimate the relative age of landslides along the active South Whidbey Island Fault zone.
 
-Jesús developed the project over six months, gaining skills in GIS, digital elevation model analysis, coding, and landscape interpretation. I'm so proud of the work he presented and his growth as a researcher!
+Jesús worked on the project over six months, gaining skills in GIS, digital elevation model analysis, coding and field data collection. I'm so proud of the work he presented and his growth as a researcher!
 
 🪧 **[Download Poster (PDF)](/assets/pdf/UW_Symposium_JesusRangel.pdf)**
 
