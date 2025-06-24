@@ -20,7 +20,7 @@ I'm part of two research groups: advised by Dr. Alison Duvall in the [Geoscapes 
 
 **Landscape Evolution Models for Strike-Slip Faults**
 
-- Oscillatory fluvial activity in strike-slip fault landscapes: insights from numerical simulations. Aránguiz-Rago, T., Duvall, A., Tucker, G., Campforts, B. (in prep). For Geophysical Research Letters (GRL).
+- Climate oscillation and fault slip rate control sediment aggradation and channel morphology along strike-slip faults. Aránguiz-Rago, T., Duvall, A., Tucker, G., Campforts, B. (in review with coauthors). For Geophysical Research Letters (GRL).
 
 - Sediment cover hinders ridge and valley migration in strike-slip fault models. Aránguiz-Rago, T., Duvall, A. (in prep). 
 
