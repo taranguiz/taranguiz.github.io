@@ -3,7 +3,7 @@ title: "Jesús Rangel Presents at UW Undergraduate Research Symposium"
 date: 2025-06-24
 categories: [mentoring, research]
 tags: [mentoring, undergraduate research, poster, landslides, Washington]
-image: assets/img/2025-06-24-jesus-rangel-presentation/IMG_1439.jpg
+thumbnail-img: assets/img/2025-06-24-jesus-rangel-presentation/IMG_1439.jpg
 ---
 
 My undergrad mentee, Jesús Rangel (Earth and Space Sciences major, UW), presented his research at the 2025 UW Undergraduate Research Symposium. His poster is titled:
