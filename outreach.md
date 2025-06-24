@@ -16,14 +16,9 @@ Rosa Marín, A., I.M. Cortés, T. Aránguiz-Rago, A. Pesce, J. Libarkin, and N. 
 
 Join the community and learn more [here](https://www.sz4d.org/sz4grads)! 
 
-### Geolatinas 
+### GeoLatinas 
 
 - I'm part of this amazing group! [Geolatinas](https://geolatinas.weebly.com) empower and embrace Latinas pursuing careers in Earth and Space Sciences. 
 Finding this network made me feel supported and motivated to continue with my research while living in a foreign country. 
 I found community and other people like me struggling with similar problems.
 
-### URGE
-
-- As part of an underrepresented group in Geosciences topics related to diversity, equity, and justice drive my role in academia. 
-Great efforts have been made to improve the Geosciences community and an incredible group of people have put together a program to work towards Unlearning Racism in Geoscience [(URGE)](https://urgeoscience.org). 
-In the Earth and Space Sciences Department at the University of Washington, we have a pod of Grad Students and postdocs following the guidelines of URGE. We hope that our contribution sees the light in practical changes in our Department dynamics creating a welcoming and diverse space for everyone. 
