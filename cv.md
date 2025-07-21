@@ -4,6 +4,6 @@ title: Curriculum Vitae
 subtitle:  
 ---
 
-<iframe src="https://drive.google.com/file/d/16vUnWM5m0ubvzhlck2w1nBsH_PB8P9xM/preview" width="100%" height="800px" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1TxOzsFP4IUtGbWPmM1iJlU5-o7lVKa5t/preview" width="100%" height="800px" allow="autoplay"></iframe>
 
-<p>If the embedded CV is not loading, you can also <a href="https://drive.google.com/file/d/16vUnWM5m0ubvzhlck2w1nBsH_PB8P9xM/view?usp=sharing" target="_blank">download the PDF here</a>.</p>
+<p>If the embedded CV is not loading, you can also <a href="https://drive.google.com/file/d/1TxOzsFP4IUtGbWPmM1iJlU5-o7lVKa5t/view?usp=sharing" target="_blank">download the PDF here</a>.</p>
