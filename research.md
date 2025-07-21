@@ -5,7 +5,7 @@ subtitle: Studying strike-slip-scapes
 cover-img: assets/img/D947C016-B6B8-41A5-8309-9F482F501C08_1_201_a.jpeg
 ---
 
-My Ph.D. focuses on understanding how strike-slip faults modify and create topography in interaction with surface processes. I use a suite of techniques from geodesy, geomorphology, geochronology, and numerical simulations to address a range of timescales. My study area is in the hyper-arid core of the Atacama Desert but I also work with synthetic landscapes. 
+My Ph.D. focuses on understanding how strike-slip faults modify and create topography in interaction with surface processes. I use a suite of techniques from geodesy, geomorphology, geochronology, and numerical simulations to address a range of timescales. My main study area is in the hyper-arid core of the Atacama Desert but I also work with synthetic landscapes. 
 
 
 I'm part of two research groups: advised by Dr. Alison Duvall in the [Geoscapes Lab](https://www.alisonrduvall.com) and co-advised by Dr. Brendan Crowell in the [Seismogeodesy Lab](https://sites.google.com/view/uwsglab/home/). 
@@ -20,11 +20,11 @@ I'm part of two research groups: advised by Dr. Alison Duvall in the [Geoscapes 
 
 **Landscape Evolution Models for Strike-Slip Faults**
 
-- Climate oscillation and fault slip rate control sediment aggradation and channel morphology along strike-slip faults. Aránguiz-Rago, T., Duvall, A., Tucker, G., Campforts, B. (in review with coauthors). For Geophysical Research Letters (GRL).
+- Climate oscillation and fault slip rate control sediment aggradation and channel morphology along strike-slip faults. Aránguiz-Rago, T., Duvall, A., Tucker, G., Campforts, B. (submitted to Geophysical Research Letters).
 
 - Sediment cover hinders ridge and valley migration in strike-slip fault models. Aránguiz-Rago, T., Duvall, A. (in prep). 
 
 
 **Fault-driven exhumation in Chilean Coastal Cordillera**
 
-- Exploring the Importance of Cenozoic Fault-driven Erosion in the Hyperarid Atacama using (U-Th)/He Cooling Histories from Coastal Cordillera Rocks. This project is in sample-prep and analysis stage. Aránguiz-Rago, T., Duvall, A. 
+- Exploring the Importance of Cenozoic Fault-driven Erosion in the Hyperarid Atacama using (U-Th)/He Cooling Histories from Coastal Cordillera Rocks. Aránguiz-Rago, T., Duvall, A., Huntington, K.  
