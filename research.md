@@ -17,8 +17,7 @@ I'm part of two research groups: advised by Dr. Alison Duvall in the [Geoscapes 
 
 **Landscape Evolution Models for Strike-Slip Faults**
 
-- Aránguiz‐Rago, T. F., Duvall, A. R., Tucker, G. E., & Campforts, B. (2025). Climate oscillation and fault slip rate control sediment aggradation and channel morphology along strike‐slip faults. Geophysical Research Letters, 52, e2025GL118146. https://doi.org/10.1029/2025GL118146
-
+- Aránguiz‐Rago, T. F., Duvall, A. R., Tucker, G. E., & Campforts, B. (2025). Climate oscillation and fault slip rate control sediment aggradation and channel morphology along strike‐slip faults. Geophysical Research Letters, 52, e2025GL118146. [10.1029/2025GL118146](https://doi.org/10.1029/2025GL118146)
 - Sediment cover hinders ridge and valley migration in strike-slip fault models. Aránguiz-Rago, T., Duvall, A. (in prep). 
 
 
