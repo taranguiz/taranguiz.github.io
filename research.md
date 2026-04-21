@@ -23,8 +23,8 @@ I'm part of two research groups: advised by Dr. Alison Duvall in the [Geoscapes 
 
 **Fault-driven exhumation in Chilean Coastal Cordillera**
 
-- Aránguiz-Rago, T., Duvall, A., Huntington, K.. Exploring the Importance of Cenozoic Fault-driven Erosion in the Hyperarid Atacama using (U-Th)/He Cooling Histories from Coastal Cordillera Rocks. (In prep for Tectonics).
+- Aránguiz-Rago, T., Duvall, A., Huntington, K. Cenozoic Fault-Driven Exhumation in the Hyperarid Atacama: Evidence from Low Temperature Thermochronology in the Coastal Cordillera. (In revision, Tectonics).
 
 **Paleoclimate and paleoseismological activity in the hyper-arid core of the Atacama Desert** 
 
-- Holocene evidence of co-seismic deformation of the Salar Grande Fault using IRSL dating of alluvial deposits. Aránguiz-Rago, T., Duvall, A., Estay, J., Gray. H. (In prep).   
+- Aránguiz-Rago, T., Estay, J., Gray. H. Duvall, A. Holocene evidence of co-seismic deformation of the Salar Grande Fault using IRSL dating of alluvial deposits. (In prep).   
