@@ -1,64 +1,54 @@
 ---
 layout: page
 title: Tamara Aránguiz-Rago, PhD
-subtitle: Tectonic Geomorphologist
+subtitle: Tectonic geomorphology across timescales
 cover-img: assets/img/faults_CA.jpg
 ---
 
 <div style="max-width: 720px; margin: 0 auto 40px;">
-  <p>I'm a Postdoctoral Fellow at the University of Colorado Boulder, studying how faults, climate, and erosion shape landscapes over time. I combine field observations, remote sensing, geochronology, and numerical modeling to understand surface processes across timescales — from active tectonics to long-term landscape evolution.</p>
+  <p>I'm a Postdoctoral Fellow at the University of Colorado Boulder. I'm a tectonic geomorphologist interested in how faults, climate, erosion, and sediment transport shape Earth's surface — combining field observations, remote sensing, geochronology, thermochronology, and numerical modeling to understand how landscapes respond to tectonic and climatic forcing.</p>
 </div>
 
-<div class="quick-links" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 40px;">
+<h2 style="margin-bottom: 5px;">Research themes</h2>
+<hr class="small" style="margin-left: 0;">
 
-  <a href="{{ '/research' | relative_url }}" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #eee; border-radius: 8px; padding: 20px; height: 100%;">
-      <h3 style="margin-top: 0;">Research</h3>
-      <p style="margin-bottom: 0; color: #404040;">Strike-slip faults, landscape evolution, and geomorphic markers of tectonics and climate.</p>
-    </div>
-  </a>
+<div class="research-themes" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 30px; margin: 30px 0 40px;">
 
-  <a href="{{ '/gallery' | relative_url }}" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #eee; border-radius: 8px; padding: 20px; height: 100%;">
-      <h3 style="margin-top: 0;">Gallery</h3>
-      <p style="margin-bottom: 0; color: #404040;">Photos from the field and the lab.</p>
-    </div>
-  </a>
+  <div>
+    <img src="{{ '/assets/img/looking_down_fault.JPG' | relative_url }}" alt="Looking down onto the Salar Grande Fault, Northern Chile" style="width: 100%; border-radius: 8px; margin-bottom: 12px;">
+    <h3 style="margin-top: 0;">Active faults &amp; landscape response</h3>
+    <p style="color: #404040;">Slowly slipping faults leave measurable records in topography, drainage networks, sediment deposits, and surface deformation.</p>
+  </div>
 
-  <a href="{{ '/outreach' | relative_url }}" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #eee; border-radius: 8px; padding: 20px; height: 100%;">
-      <h3 style="margin-top: 0;">Outreach</h3>
-      <p style="margin-bottom: 0; color: #404040;">Mentoring, teaching, and community initiatives I'm part of.</p>
-    </div>
-  </a>
+  <div>
+    <img src="{{ '/assets/img/range_front_emma.jpeg' | relative_url }}" alt="Alluvial fans along the Salar Grande Fault, Northern Chile" style="width: 100%; border-radius: 8px; margin-bottom: 12px;">
+    <h3 style="margin-top: 0;">Climate, sediment &amp; landscape evolution</h3>
+    <p style="color: #404040;">Numerical models help test how climate variability and sediment cover influence river dynamics, divide migration, and fault-zone morphology.</p>
+  </div>
 
-  <a href="{{ '/cv' | relative_url }}" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #eee; border-radius: 8px; padding: 20px; height: 100%;">
-      <h3 style="margin-top: 0;">CV</h3>
-      <p style="margin-bottom: 0; color: #404040;">Full academic CV and publication list.</p>
-    </div>
-  </a>
+  <div>
+    <img src="{{ '/assets/img/bedrock_sample.JPG' | relative_url }}" alt="Bedrock sampling for thermochronology, Coastal Cordillera, Chile" style="width: 100%; border-radius: 8px; margin-bottom: 12px;">
+    <h3 style="margin-top: 0;">Long-term exhumation &amp; mountain evolution</h3>
+    <p style="color: #404040;">Thermochronology and geologic constraints reveal cooling, exhumation, basin development, and landscape evolution over millions of years.</p>
+  </div>
 
 </div>
 
-{% assign latest_post = site.posts.first %}
-{% if latest_post %}
-<div style="border-top: 1px solid #eee; padding-top: 30px;">
-  <h3>Latest from the blog</h3>
-  <article class="post-preview">
-    <a href="{{ latest_post.url | absolute_url }}">
-      <h2 class="post-title">{{ latest_post.title | strip_html }}</h2>
-    </a>
-    <p class="post-meta">
-      {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-      Posted on {{ latest_post.date | date: date_format }}
-    </p>
-    <div class="post-entry">
-      {% assign excerpt_length = site.excerpt_length | default: 50 %}
-      {{ latest_post.excerpt | strip_html | truncatewords: excerpt_length }}
-      <a href="{{ latest_post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
-    </div>
-  </article>
-  <p><a href="{{ '/blogs' | relative_url }}">See all posts &rarr;</a></p>
+<div style="max-width: 720px; margin: 0 auto 40px;">
+  <p>After completing my Ph.D. research in the hyperarid Atacama Desert, I'm expanding this work toward glaciated and postglacial landscapes, sediment routing, and tectonic geomorphology in mountain systems.</p>
 </div>
-{% endif %}
+
+<h2 style="margin-bottom: 5px;">Methods</h2>
+<hr class="small" style="margin-left: 0;">
+
+<ul style="max-width: 720px; margin: 20px auto 40px;">
+  <li>Field geology and geomorphic mapping</li>
+  <li>Satellite remote sensing, InSAR, GNSS, and topographic analysis</li>
+  <li>Geochronology, thermochronology, and sediment records</li>
+  <li>Landscape-evolution modeling and scientific programming</li>
+</ul>
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="{{ '/research' | relative_url }}" class="btn btn-outline-primary" style="margin-right: 10px;">See my research &amp; publications</a>
+  <a href="{{ '/cv' | relative_url }}" class="btn btn-outline-primary">View CV</a>
+</div>
