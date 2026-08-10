@@ -1,6 +1,64 @@
 ---
-layout: home
-title: Welcome!
-subtitle: I'm a Postdoctoral Fellow at the University of Colorado Boulder.
+layout: page
+title: Tamara Aránguiz-Rago, PhD
+subtitle: Tectonic Geomorphologist
 cover-img: assets/img/faults_CA.jpg
 ---
+
+<div style="max-width: 720px; margin: 0 auto 40px;">
+  <p>I'm a Postdoctoral Fellow at the University of Colorado Boulder, studying how faults, climate, and erosion shape landscapes over time. I combine field observations, remote sensing, geochronology, and numerical modeling to understand surface processes across timescales — from active tectonics to long-term landscape evolution.</p>
+</div>
+
+<div class="quick-links" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 40px;">
+
+  <a href="{{ '/research' | relative_url }}" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #eee; border-radius: 8px; padding: 20px; height: 100%;">
+      <h3 style="margin-top: 0;">Research</h3>
+      <p style="margin-bottom: 0; color: #404040;">Strike-slip faults, landscape evolution, and geomorphic markers of tectonics and climate.</p>
+    </div>
+  </a>
+
+  <a href="{{ '/gallery' | relative_url }}" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #eee; border-radius: 8px; padding: 20px; height: 100%;">
+      <h3 style="margin-top: 0;">Gallery</h3>
+      <p style="margin-bottom: 0; color: #404040;">Photos from the field and the lab.</p>
+    </div>
+  </a>
+
+  <a href="{{ '/outreach' | relative_url }}" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #eee; border-radius: 8px; padding: 20px; height: 100%;">
+      <h3 style="margin-top: 0;">Outreach</h3>
+      <p style="margin-bottom: 0; color: #404040;">Mentoring, teaching, and community initiatives I'm part of.</p>
+    </div>
+  </a>
+
+  <a href="{{ '/cv' | relative_url }}" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #eee; border-radius: 8px; padding: 20px; height: 100%;">
+      <h3 style="margin-top: 0;">CV</h3>
+      <p style="margin-bottom: 0; color: #404040;">Full academic CV and publication list.</p>
+    </div>
+  </a>
+
+</div>
+
+{% assign latest_post = site.posts.first %}
+{% if latest_post %}
+<div style="border-top: 1px solid #eee; padding-top: 30px;">
+  <h3>Latest from the blog</h3>
+  <article class="post-preview">
+    <a href="{{ latest_post.url | absolute_url }}">
+      <h2 class="post-title">{{ latest_post.title | strip_html }}</h2>
+    </a>
+    <p class="post-meta">
+      {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+      Posted on {{ latest_post.date | date: date_format }}
+    </p>
+    <div class="post-entry">
+      {% assign excerpt_length = site.excerpt_length | default: 50 %}
+      {{ latest_post.excerpt | strip_html | truncatewords: excerpt_length }}
+      <a href="{{ latest_post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  <p><a href="{{ '/blogs' | relative_url }}">See all posts &rarr;</a></p>
+</div>
+{% endif %}
