@@ -16,7 +16,7 @@ My cohort was particularly large because both 2020 and 2021 incoming PhD student
 
 <img src="/assets/img/tamara-speaker.jpg" alt="Tamara speaking at the ceremony" style="max-width: 100%; margin-bottom: 1em;">
 
-[During the ceremony, I had the honor to be one of the graduating speakers with Dr. Autum Downey (now at University of Missouri-Kansas City). It was an unforgettable experience because I was able to share some reflections about what got me here in the first place and how I was able to get through the challenges of doing a PhD.]
+During the ceremony, I had the honor to be one of the graduating speakers with Dr. Autum Downey (now at University of Missouri-Kansas City). It was an unforgettable experience because I was able to share some reflections about what got me here in the first place and how I was able to get through the challenges of doing a PhD.
 
 <img src="/assets/img/alison-tamara.jpg" alt="Tamara and Alison Duvall" style="max-width: 100%; margin-bottom: 1em;">
 
