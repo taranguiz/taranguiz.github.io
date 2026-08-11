@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Hola! I'm a tectonic geomorphologist 
-cover-img: assets/img/DSC_9835_Original.jpeg
+cover-img: assets/img/cover_santiago_andes.jpg
 ---
 
 <div style="display: flex; justify-content: center; gap: 20px;">

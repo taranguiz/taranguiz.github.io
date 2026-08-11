@@ -1,14 +1,18 @@
 ---
 layout: page
 title: Community
-subtitle: I am involved with some initiatives outside of my research.
+subtitle: I am involved with some initiatives that connect the scientific community.
 ---
+### Landscapes Live
+
+- In Spring 2025, I joined the team that organizes the international geomorphology webinar [Landscapes Live](https://www.landscapeslive.org/). If you have not checked these seminars yet, what are you waiting for? In our [youtube channel](https://www.youtube.com/@landscapeslive1326) you can find a ton of inspiring science talks. 
+
 ### CoCo: Code to communicate 
 
 - After starting my programming journey with my Ph.D., I have been really motivated to gain expertise in Data Science. I have the pleasure to be part of CoCo: [code to communicate](https://www.codecommunicate.org/about). 
-CoCo is an NSF-funded bilingual project addressed to Latinx and Hispanic students to give them skills in programming and science communication. I love CoCo and our team! As of April 2024, I am a coding coordinator and we are looking to open our program to a community, so stay tuned! 
+CoCo is an NSF-funded bilingual project addressed to Latinx and Hispanic students to give them skills in programming and science communication. I love CoCo and our team!  
 - Read about our program in our article [here](https://tos.org/oceanography/article/code-to-communicate-empowering-bilingual-connections-in-earth-science). 
-Rosa Marín, A., I.M. Cortés, T. Aránguiz-Rago, A. Pesce, J. Libarkin, and N. Gasparini. 2023. Code to communicate: Empowering bilingual connections in Earth science. Oceanography 36(4):158–159, [https://doi.org/10.5670/oceanog.2024.114]. 
+Rosa Marín, A., I.M. Cortés, T. Aránguiz-Rago, A. Pesce, J. Libarkin, and N. Gasparini. 2023. Code to communicate: Empowering bilingual connections in Earth science. Oceanography 36(4):158–159, [https://doi.org/10.5670/oceanog.2024.114](https://doi.org/10.5670/oceanog.2024.114). 
 
 ### SZ4Grads
 
