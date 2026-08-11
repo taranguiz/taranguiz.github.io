@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Outreach
+title: Community
 subtitle: I am involved with some initiatives outside of my research.
 ---
 ### CoCo: Code to communicate 
