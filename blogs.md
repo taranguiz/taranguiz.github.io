@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: Field notes, talks, and updates from the lab and the field
+subtitle: Thoughts and updates from the lab and the field
 permalink: /blogs/
 ---
 
