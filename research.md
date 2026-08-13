@@ -16,9 +16,9 @@ cover-img: assets/img/D947C016-B6B8-41A5-8309-9F482F501C08_1_201_a.jpeg
 - Divide migration persists across detachment to transport-limited conditions
 in strike-slip landscape models. Aránguiz-Rago, T., Duvall, A., Morgan, P. (in prep). 
 
-**Fault-driven exhumation in Chilean Coastal Cordillera**
+**Mountain Building and fault-driven exhumation in Chilean Coastal Cordillera**
 
-- Aránguiz-Rago, T., Duvall, A., Huntington, K. Cenozoic Fault-Driven Exhumation in the Hyperarid Atacama: Evidence from Low Temperature Thermochronology in the Coastal Cordillera. (Accepted, Tectonics).
+- Aránguiz-Rago, T., Duvall, A., Huntington, K. Preserved through Hyperaridity, 150 Million Years of Exhumation and Strike-Slip Deformation in the Atacama Coastal Cordillera. (Accepted, Tectonics).
 
 **Paleoclimate and paleoseismological activity in the hyper-arid core of the Atacama Desert** 
 
