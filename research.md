@@ -18,7 +18,7 @@ in strike-slip landscape models. Aránguiz-Rago, T., Duvall, A., Morgan, P. (in 
 
 **Fault-driven exhumation in Chilean Coastal Cordillera**
 
-- Aránguiz-Rago, T., Duvall, A., Huntington, K. Cenozoic Fault-Driven Exhumation in the Hyperarid Atacama: Evidence from Low Temperature Thermochronology in the Coastal Cordillera. (In Review, Tectonics).
+- Aránguiz-Rago, T., Duvall, A., Huntington, K. Cenozoic Fault-Driven Exhumation in the Hyperarid Atacama: Evidence from Low Temperature Thermochronology in the Coastal Cordillera. (Accepted, Tectonics).
 
 **Paleoclimate and paleoseismological activity in the hyper-arid core of the Atacama Desert** 
 
