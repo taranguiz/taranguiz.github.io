@@ -2,7 +2,7 @@
 layout: page
 title: Research
 subtitle: Publications and manuscripts on the works 
-cover-img: assets/img/D947C016-B6B8-41A5-8309-9F482F501C08_1_201_a.jpeg
+cover-img: assets/img/DJI_0673.JPG
 ---
 
 **Deformation rates and geomorphic response in the Salar Grande Fault, Northern Chile**
@@ -18,7 +18,7 @@ in strike-slip landscape models. Aránguiz-Rago, T., Duvall, A., Morgan, P. (in 
 
 **Mountain Building and fault-driven exhumation in Chilean Coastal Cordillera**
 
-- Aránguiz-Rago, T., Duvall, A., Huntington, K. Preserved through Hyperaridity, 150 Million Years of Exhumation and Strike-Slip Deformation in the Atacama Coastal Cordillera. (Accepted, Tectonics).
+- Aránguiz-Rago, T., Duvall, A., Huntington, K. Preserved through Hyperaridity, 150 Million Years of Exhumation and Strike-Slip Deformation in the Atacama Coastal Cordillera. (In Press, Tectonics).
 
 **Paleoclimate and paleoseismological activity in the hyper-arid core of the Atacama Desert** 
 
